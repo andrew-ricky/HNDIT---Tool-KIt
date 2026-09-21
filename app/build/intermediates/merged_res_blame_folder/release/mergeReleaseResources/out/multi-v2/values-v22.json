@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hndit.academictoolkit.app-mergeReleaseResources-29:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andrew\\.gradle\\caches\\9.0.0\\transforms\\5f8d2e5121c010acd1b988b82897ffa6\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

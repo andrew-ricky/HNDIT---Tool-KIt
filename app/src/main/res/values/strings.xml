@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HNDIT Toolkit</string>
+    <string name="tagline">ATI Galle • Student Companion</string>
+
+    <string name="title_gpa">Semester GPA Calculator</string>
+    <string name="title_target_gpa">Target GPA Predictor</string>
+    <string name="title_attendance">Attendance &amp; Exam Eligibility</string>
+    <string name="title_ca_predictor">CA &amp; Final Exam Marks Predictor</string>
+
+    <string name="desc_gpa">Calculate your GPA for any semester</string>
+    <string name="desc_target_gpa">Find out what GPA you need going forward</string>
+    <string name="desc_attendance">Check your 70% attendance eligibility</string>
+    <string name="desc_ca_predictor">Find the final exam mark you need</string>
+</resources>

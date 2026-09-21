@@ -1,0 +1,5 @@
+com.hndit.academictoolkit.test.app-androidTest-0 C:\Users\Andrew\Downloads\newvproj\app\build\generated\res\resValues\androidTest\debug
+com.hndit.academictoolkit.test.app-updated_navigation_xml-1 C:\Users\Andrew\Downloads\newvproj\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.hndit.academictoolkit.test.app-mergeDebugAndroidTestResources-2 C:\Users\Andrew\Downloads\newvproj\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.hndit.academictoolkit.test.app-mergeDebugAndroidTestResources-3 C:\Users\Andrew\Downloads\newvproj\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.hndit.academictoolkit.test.app-debugAndroidTest-4 C:\Users\Andrew\Downloads\newvproj\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
